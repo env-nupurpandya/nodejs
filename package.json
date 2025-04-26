@@ -4,7 +4,7 @@
   "description": "nupur nodejs",
   "main": "hello.js",
   "scripts": {
-    "start": "nodemon index",
+    "start": "nodemon httpmethods.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
